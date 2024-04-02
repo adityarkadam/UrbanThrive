@@ -25,7 +25,7 @@ npm-start -g
 
 ## Links
 
-- [Repo](https://github.com/AlmogWer/furniture-e-commerce "Furniture E-commerce Repo")
+- [Repo]([https://github.com/AlmogWer/furniture-e-commerce](https://github.com/adityarkadam/UrbanThrive/) "Furniture E-commerce Repo")
 - [Live](https://almogwer-furniture-ecommerce.netlify.app/ "Live View")
 
 ## Dummy user
